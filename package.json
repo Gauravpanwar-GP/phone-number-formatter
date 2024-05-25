@@ -1,0 +1,16 @@
+{
+  "name": "phone-number-formatter",
+  "version": "1.0.0",
+  "description": "Basic phone number formatter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gauravpanwar-GP/phone-number-formatter.git"
+  },
+  "author": "Gaurav Panwar",
+  "license": "ISC"
+}
